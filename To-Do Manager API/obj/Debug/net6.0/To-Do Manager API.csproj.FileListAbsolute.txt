@@ -1,0 +1,88 @@
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\appsettings.Development.json
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\appsettings.json
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\To-Do Manager API.exe
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\To-Do Manager API.deps.json
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\To-Do Manager API.runtimeconfig.json
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\To-Do Manager API.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\To-Do Manager API.pdb
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.csproj.AssemblyReference.cache
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.AssemblyInfoInputs.cache
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.AssemblyInfo.cs
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.csproj.CoreCompileInputs.cache
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.MvcApplicationPartsAssemblyInfo.cs
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.MvcApplicationPartsAssemblyInfo.cache
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\staticwebassets\msbuild.To-Do Manager API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do Manager API.props
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do Manager API.props
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do Manager API.props
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\scopedcss\bundle\To-Do Manager API.styles.css
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.csproj.CopyComplete
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\refint\To-Do Manager API.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.pdb
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\To-Do Manager API.genruntimeconfig.cache
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\obj\Debug\net6.0\ref\To-Do Manager API.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Azure.Core.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Humanizer.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.CodeDom.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.Text.Json.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Codings\C# Stuff\APIs\To-Do Manager API\To-Do Manager API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
